@@ -1,9 +1,34 @@
 # N-Queen Visualiser
 
-- The N-Queens puzzle is the problem of placing N chess queens on an N×N chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.
+This project is a N-Queens Visualizer built using HTML, CSS, and JavaScript. It aims to help users understand and visualize the N-Queens problem-solving algorithm, particularly focusing on backtracking.
 
-- This algorithm is designed using recursion.
+Demo
+https://pawan2030.github.io/N-Queens-Visualizer/
 
-![N-Queen-visualisation](visualisation.gif)
+![chessboard6](https://github.com/Pawan2030/N-Queens-Visualizer/assets/136910101/429a56d1-45ad-48c4-8f0c-f881fef88228)
 
-**<p align='center'>You can find the website live <a href="https://nqueen.netlify.app/">here</a></p>**
+
+Features
+Interactive Board: Users can place queens on the chessboard by clicking on the squares, visualizing how the N-Queens problem is solved.
+
+Backtracking Algorithm: The visualizer employs a backtracking algorithm to solve the N-Queens problem efficiently, demonstrating the process step by step.
+
+Responsive Design: The visualizer is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
+
+Educational Purpose: This project serves as an educational tool for learning about algorithms, specifically backtracking, and understanding how they can be applied to solve real-world problems like the N-Queens puzzle.
+
+Usage
+To use the N-Queens Visualizer:
+
+Clone or download the repository to your local machine.
+Open the index.html file in your web browser.
+Place queens on the chessboard by clicking on the squares to start the visualization.
+Observe how the backtracking algorithm solves the N-Queens problem step by step.
+Contributions
+Contributions to this project are welcome! If you have suggestions for improvements, new features, or bug fixes, feel free to submit a pull request.
+
+
+
+Acknowledgements
+VisuAlgo for inspiration and educational resources on algorithm visualizations.
+JavaScript Algorithms and Data Structures repository for algorithms implementations in JavaScript.
